@@ -1,0 +1,3 @@
+export const MAP_MISSIONS_COVERAGE_RADIUS = 50 * 1000; // 50km
+export const MAP_MISSIONS_COVERAGE_COLOR = 'rgba(1, 150, 150, 0.1)';
+export const MAP_MISSIONS_COVERAGE_STROKE_COLOR = 'rgba(144, 238, 144, 1)';

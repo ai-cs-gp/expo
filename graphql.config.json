@@ -1,0 +1,4 @@
+{
+  "schema": "http://192.168.1.100:3000/graphql",
+  "documents": ["src/graphql/**/*.gql", "!src/graphql/__generated__", "!src/graphql/types.ts", "!src/graphql/index.tsx"]
+}
